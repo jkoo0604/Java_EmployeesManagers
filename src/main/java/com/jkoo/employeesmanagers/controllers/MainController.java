@@ -34,8 +34,8 @@ public class MainController {
 		List<Object[]> allManagerNames = mainService.getManagerNamesOnly();
 		//System.out.println(allManagerNames);
 		List<Object[]> allEMNames = mainService.getEmployeeManagerNames();
-		System.out.println(allEMNames);
-		System.out.println(allEMNames.get(0)[0]);
+		//System.out.println(allEMNames);
+		//System.out.println(allEMNames.get(0)[0]);
 		model.addAttribute("employees",allEmployees);
 		model.addAttribute("managersSQL",allManagersSQL);
 		model.addAttribute("managersCRUD",allManagersCRUD);

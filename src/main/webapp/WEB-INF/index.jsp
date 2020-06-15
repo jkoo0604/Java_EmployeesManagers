@@ -124,7 +124,7 @@
 			<div class="col-6">
 				<div class="row">
 					<div class="col">
-						<h3>All Managers (CRUD)</h3>
+						<h3>All Managers (CRUDRepo)</h3>
 					</div>
 				</div>
 				<div class="row">
