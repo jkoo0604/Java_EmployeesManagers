@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+.container {
+	margin: auto;
+	width: 800px;
+	margin-top: 20px;
+}
+
+.padding {
+	margin: 15px;
+}
+
+a, .btn-link {
+	color: darkslategrey;
+}
+
+.err {
+	color: red;
+	font-size: 13px;
+	padding: 0px;
+	margin: 0px;
+}
